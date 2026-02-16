@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Singh</h1>
-<h3 align="center">A pre-final year Computer Science Undergrad</h3>
+<h3 align="center">A pre-final year Computer Science Undergrad. I am exploring core CS concepts, cloud computing, and software development. Currently focusing on improving DSA skills and gaining hands-on experience with Linux and system tools. Always open to learning, connecting, and collaborating on meaningful tech projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaaa-singh&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaaa-singh" /> </p>
 
