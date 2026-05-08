@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **niharikasingh11892@gmail.com**
 
-- ⚡ Fun fact **I require HIS help in a lot of things hehe!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
